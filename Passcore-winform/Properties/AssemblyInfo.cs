@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Passcore-winform")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Passcore")]
+[assembly: AssemblyDescription("A new way to make password.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Passcore-winform")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("Passcore")]
+[assembly: AssemblyCopyright("Copyright © 2019 Passcore.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
